@@ -8,7 +8,7 @@
   color: #24292e; }
 
 .cm-s-github-light .CodeMirror-gutters {
-  background: #fff;
+  background: #f7f7f7;
   border-right-width: 0; }
 
 .cm-s-github-light .CodeMirror-guttermarker {
@@ -71,7 +71,7 @@
   font-weight: normal;
   font-style: normal;
   text-decoration: none;
-  color: #032f62; }
+  color: #0366d8; }
 
 .cm-s-github-light .cm-support {
   font-weight: normal;
@@ -84,3 +84,30 @@
   font-style: normal;
   text-decoration: none;
   color: #e36209; }
+
+.cm-s-github-light .cm-atom {
+  color: #9a2d97; }
+
+.cm-s-github-light .cm-attribute {
+  color: #9e2323; }
+
+.cm-s-github-light .cm-tag {
+  color: #008000; }
+
+.cm-s-github-light .cm-tag.cm-bracket {
+  color: #000080; }
+
+.cm-s-github-light .cm-qualifier {
+  color: #e36209; }
+
+.cm-s-github-light .cm-property {
+  color: #15658c; }
+
+.cm-s-github-light .cm-meta {
+  color: #253c90; }
+
+.cm-s-github-light .cm-variable-3 {
+  color: #964914; }
+
+.cm-s-github-light .cm-tab {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAMCAQAAACOs/baAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAAEgAAABIAEbJaz4AAABISURBVDjL7dAxCoAwFATRF/mgCELQ+1/RxsZUsfEEwscmc4Addhj8QFEFDpgSBF1ThQJhT3vxCs6E+cWmmbMSFavblVJm8IEHt6MGX5uqdwIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTgtMTEtMDFUMTQ6MDU6MzktMDQ6MDAmZCWeAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4LTExLTAxVDE0OjA1OjM5LTA0OjAwVzmdIgAAAABJRU5ErkJggg=='); }
